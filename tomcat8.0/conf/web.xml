@@ -596,7 +596,7 @@
   <!-- created sessions by modifying the value below.                       -->
 
     <session-config>
-        <session-timeout>30</session-timeout>
+        <session-timeout>600</session-timeout>
     </session-config>
 
 
